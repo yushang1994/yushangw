@@ -13,6 +13,3 @@ Welcome! I am a PhD Candidate in the [Department of Economics](https://arts-scie
 I will be on the 2023-2024 Job Market and will be available for interviews. 
 
 My research interests lie in the domain of Applied Microeconomics with a focused view on Development, Health, Labor and Transportation Infrastructure. My current research focuses on how transportation systems affect development and health outcomes. I have teaching experience in introduction-level economics courses. 
-
-
-
