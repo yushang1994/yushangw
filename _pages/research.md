@@ -17,17 +17,9 @@ geography also informs projects on active conflicts including the targeting of
 UN peacekeepers by insurgent groups, civilian victimization after rebel
 territorial conquest, and communal violence in fragile settings.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+
+
 
 <nbsp>
 
