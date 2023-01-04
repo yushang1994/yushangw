@@ -269,6 +269,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-github-metadata
   jekyll-pdf-embed
+  jekyll-redirect-from
   jekyll-sitemap
   tzinfo-data
   wdm (~> 0.1.0)
