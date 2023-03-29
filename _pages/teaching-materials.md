@@ -6,7 +6,6 @@ header:
 ---
 
 ##  ECO 181: Introduction to Macroeconomics 
-- [Lecture 01](files/pdf/teaching-materials/ECO_181_Lecture_01.pdf)
 - [Lecture 01](/files/pdf/teaching-materials/ECO_181_Lecture_01.pdf)
 
 
