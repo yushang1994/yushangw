@@ -5,9 +5,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/ 
-    
+  
+  - title: "Course Materials"
+    url: /teaching-materials/
+
   - title: "CV"
     url: /cv/
-  
-  - title: "teaching-materials"
-    url: /teaching-materials/
