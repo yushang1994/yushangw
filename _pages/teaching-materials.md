@@ -7,5 +7,5 @@ header:
 
 ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> ECO 181: Introduction to Macroeconomics 
 {: #political-data-science }
-- [Programming Style](/files/html/teaching-materials/R_Style_Guide)
+- [Lecture 01](/files/pdf/teaching-materials/ECO_181_Lecture_01.pdf)
 
