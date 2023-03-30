@@ -8,7 +8,7 @@ title: "Teaching"
 
 ## University at Buffalo, SUNY - Adjunct Instructor
 - ECO 181: Introduction to Macroeconomics(Summer 2022 & Summer 2023)
-    - [Syllabus](/files/pdf/teaching/SyllabusECO181S22.pdf)
+    - [Syllabus](/yushangw/files/pdf/teaching/Syllabus_ECO_181_Summer_2023.pdf)
 
 ## University at Buffalo, SUNY - Teaching Assistant
 - ECO 182: Introduction to Microeconomics (Spring 2021, Spring 2023)
