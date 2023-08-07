@@ -3,12 +3,14 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
- I have taught undergraduate courses on Introduction to Macroeconomics. I also served as a teaching assistant for courses in University at Buffalo. Here is the list of my teaching experience. 
+ My learning and research experience play a central role in my theaching. I have taught undergraduate courses on Introduction to Macroeconomics. I also served as a teaching assistant for courses in University at Buffalo. Here is the list of my teaching experience. 
 
 
 ## University at Buffalo, SUNY - Adjunct Instructor
-- ECO 181: Introduction to Macroeconomics(Summer 2022 & Summer 2023)
+- ECO 181: Introduction to Macroeconomics(Summer 2022)
+- ECO 181: Introduction to Macroeconomics(Summer 2023)
     - [Syllabus](/yushangw/files/pdf/teaching/Syllabus_ECO_181_Summer_2023.pdf) 
+    - [Calendar](/yushangw/files/pdf/teaching-materials/ECO_181_2023_Summer_Calendar.pdf)
 
 ## University at Buffalo, SUNY - Teaching Assistant
 - ECO 182: Introduction to Microeconomics (Spring 2021, Spring 2023)
