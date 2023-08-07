@@ -3,7 +3,8 @@ layout: archive
 title: "Other"
 permalink: /other/
 author_profile: true
-
+header:
+  og_image: "research/spatial_weighting.png"
 
 ---
 ## My Hobby ##
@@ -18,4 +19,4 @@ My journey into baking began during my sophomore year in college when I started 
 
 Of course, I encountered failures along the way, each success after a setback brought immense joy. This hobby has remained a constant source of delight in my life up to this day.  Whenever I feel down, baking a cake and engaging in delightful conversations with friends become therapeutic, helping me heal and find the strength to move forward.
 
-![](/images/baking/macaron.JPG)
+![](/images/research/spatial_weighting.png)
