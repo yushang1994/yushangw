@@ -19,4 +19,8 @@ Of course, I encountered failures along the way, each success after a setback br
 
 |![](/yushangw/images/baking/macaron.JPG) | ![](/yushangw/images/baking/macaron1.JPG)|
 |:-:|:-:|
-|text-1|text-2|
+|Matcha macarons| |
+
+|![](/yushangw/images/baking/Chocolatetart.JPG) | ![](/yushangw/images/baking/Chestnuttart.JPG)|
+|:-:|:-:|
+|Chocolate Tart|Chestnut Tart - for my friend birthday |
