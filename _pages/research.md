@@ -20,6 +20,6 @@ header:
 
 ## Working in Progress ##
 
-**"Do College Graduates Serving as Village Officials Help Local Health level"**
+- **"Do College Graduates Serving as Village Officials Help Local Health level"**
 
-**"Public Transportation and Fertility Choice"**
+- **"Public Transportation and Fertility Choice"**
