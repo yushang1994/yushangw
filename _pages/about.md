@@ -18,5 +18,6 @@ My research interests lie in the domain of Applied Microeconomics with a focused
 
 I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China]() at the ASSA 2024 Annual Meeting in San Antonio, TX
 
-###  World Railway Network in 2018 ###
+## Data is Beautiful! ##
+*World Railway Network in 2018*
 ![](/yushangw/images/aboutme/worldmap.jpg)
