@@ -17,6 +17,7 @@ My journey into baking began during my sophomore year in college. I started maki
 
 Of course, I encountered failures along the way, each success after a setback brought immense joy. Baking has remained a constant source of delight in my life up to this day.  Whenever I feel down, baking a cake and engaging in delightful conversations with friends become therapeutic, helping me heal and find the strength to move forward.
 
+
 |![](/yushangw/images/baking/macaron.JPG) | ![](/yushangw/images/baking/macaron1.JPG)| ![](/yushangw/images/baking/macaron2.jpg)|
 
 
@@ -25,3 +26,7 @@ Of course, I encountered failures along the way, each success after a setback br
 |Chocolate Tart|Chestnut Tart - for my friend birthday |
 
 **My cat, Sam, also want cream and sweets!**
+
+|![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.JPG)|
+|:-:|:-:|
+| Canele |Black Tea Chiffon Cake |
