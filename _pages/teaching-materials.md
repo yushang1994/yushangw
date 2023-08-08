@@ -8,7 +8,7 @@ header:
 ##  ECO 181: Introduction to Macroeconomics (University at Buffalo, SUNY)
 - [Syllabus](/yushangw/files/pdf/teaching/Syllabus_ECO_181_Summer_2023.pdf) 
 - [Calendar](/yushangw/files/pdf/teaching-materials/ECO_181_2023_Summer_Calendar.pdf)
-- Course Materials:
+**Course Materials:**
   - [PPT: Lecture 01](/yushangw/files/pdf/teaching-materials/ECO_181___Lecture_01.pdf) 
   - [PPT: Lecture 02](/yushangw/files/pdf/teaching-materials/ECO_181___Lecture_02.pdf)
   - [PPT: Lecture 03](/yushangw/files/pdf/teaching-materials/ECO_181___Lecture_03.pdf)
@@ -19,3 +19,6 @@ header:
   - [PPT: Lecture 07](/yushangw/files/pdf/teaching-materials/ECO_181___Lecture_07ver2.pdf)
   - [Exam 02](/yushangw/files/pdf/teaching-materials/ECO_181_Exam_02.pdf)
 
+| Reading List | PowerPoint Slide | Recitation | Homework | Exam |
+|:--------|:-------:|--------:|:-------:|--------:|
+| Chapter 1, 2, 3 | [Lecture 01](/yushangw/files/pdf/teaching-materials/ECO_181___Lecture_01.pdf) | [Discussion 01](/yushangw/files/pdf/teaching-materials/Discussion_Problem_Set_01.pdf) |       |      |
