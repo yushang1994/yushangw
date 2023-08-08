@@ -15,3 +15,5 @@ I will be on the 2023-2024 Job Market and will be available for interviews.
 My research interests lie in the domain of Applied Microeconomics with a focused view on Development, Health, Labor and Transportation Infrastructure. My current research focuses on how transportation systems affect development and health outcomes. I have teaching experience in introduction-level economics courses. 
 
 I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China]() at the ASSA 2024 Annual Meeting in San Antonio, TX
+
+![](/yushangw/images/baking/worldmap.jpg)

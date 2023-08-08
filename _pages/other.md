@@ -23,10 +23,10 @@ Of course, I encountered failures along the way, each success after a setback br
 
 |![](/yushangw/images/baking/Chocolatetart.JPG) | ![](/yushangw/images/baking/Chestnuttart.JPG)|
 |:-:|:-:|
-|Chocolate Tart|Chestnut Tart - for my friend birthday |
+|Chocolate Tart|Chestnut Tart - for my friend's birthday |
 
 **My cat, Sam, also want cream and sweets!**
 
-|![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.JPG)|
+|![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.jpg)|
 |:-:|:-:|
 | Canele |Black Tea Chiffon Cake |
