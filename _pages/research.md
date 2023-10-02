@@ -10,6 +10,7 @@ header:
 ## Job Market Paper ##
 
 - **"Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China"**
+[![PDF Link](/yushangw/images/research/pdf.jpeg)](/yushangw/files/pdf/research/JMP_YushangWei.pdf)
 
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -24,7 +25,7 @@ header:
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
 Using a panel of Chinese cities over the period 1999 - 2018, I examine the determinants of economic growth, focusing on the role of foreign direct investment (FDI) and road infrastructure. Consistent with the predictions of a human capital-augmented Solow model, I find that FDI has a positive effect on the per capita GDP growth rate and this effect is intensified by the road infrastructure of the city. The latter suggests that one way that road infrastructure contributes to growth is to serve as a facilitator for technology transfers stemming from FDI. The findings suggest the FDI-road infrastructure complementary effect is stronger for technology-intensive FDI than for labor-intensive FDI. The results are robust to alternative model specifications and estimation methods.
 </details> 
-[![PDF Link](research/pdf.jpeg)](/yushangw/files/pdf/research/JMP_YushangWei.pdf)
+
 
 ## Working in Progress ##
 
