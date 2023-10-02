@@ -24,13 +24,15 @@ header:
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
 Using a panel of Chinese cities over the period 1999 - 2018, I examine the determinants of economic growth, focusing on the role of foreign direct investment (FDI) and road infrastructure. Consistent with the predictions of a human capital-augmented Solow model, I find that FDI has a positive effect on the per capita GDP growth rate and this effect is intensified by the road infrastructure of the city. The latter suggests that one way that road infrastructure contributes to growth is to serve as a facilitator for technology transfers stemming from FDI. The findings suggest the FDI-road infrastructure complementary effect is stronger for technology-intensive FDI than for labor-intensive FDI. The results are robust to alternative model specifications and estimation methods.
 </details> 
+[![PDF Link](research/pdf.jpeg)](/yushangw/files/pdf/research/JMP_YushangWei.pdf)
 
 ## Working in Progress ##
 
 - **"Do College Graduates Serving as Village Officials Help Local Health level"**
+
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
-
+I am currently working on this topic. The College Graduate Village Officials (CGVOs) program in China is a unique human capital reallocation policy initiated by the government. This program deploys recent college graduates to rural and underdeveloped areas as village-level officials. CGVOs are engaged in various projects, including governance, economic development, education, and healthcare, with the overarching goal of enhancing the quality of life in China's rural regions while providing career opportunities for college graduates. In this paper, I will employ a Difference-in-Difference (DD) approach as my baseline estimation strategy, comparing the impact on local health before and after the introduction of CGVOs.
  </details> 
- 
+
 - **"Public Transportation and Fertility Choice"**
