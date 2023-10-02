@@ -5,7 +5,7 @@ permalink: /other/
 author_profile: true
 
 ---
-## My Hobby ##
+## My Hobby ## 
 
 **I love baking. A lot.**
 
