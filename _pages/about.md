@@ -16,8 +16,12 @@ I am a PhD Candidate in the [Department of Economics](https://arts-sciences.buff
 
 My research interests lie in the domain of Applied Microeconomics with a focused view on Development, Health, Labor and Transportation Infrastructure. My current research focuses on how transportation systems affect development and health outcomes. I have teaching experience in introduction-level economics courses. 
 
-**I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China](/yushangw/files/pdf/research/JMP_YushangWei.pdf) at the ASSA 2024 Annual Meeting in San Antonio, TX.** Here is the specific information ([Link](https://www.aeaweb.org/conference/2024/preliminary/2067?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArPDUTyElJrAQp0TUFSWTmpkKUlGWmloMMKSooXDAKmBoo1dYCXDDhxh0Q)) of my paper session. 
+##Upcoming Conference Participation##
 
+**I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China](/yushangw/files/pdf/research/JMP_YushangWei.pdf) at the ASSA 2024 Annual Meeting in San Antonio, TX.** Here is the specific information ([Link](https://www.aeaweb.org/conference/2024/preliminary/2067?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArPDUTyElJrAQp0TUFSWTmpkKUlGWmloMMKSooXDAKmBoo1dYCXDDhxh0Q)) of my paper presentation session. 
+
+I will also paticipate **the 93rd Annual Meeting of the Southern Economic Association (SEA) in New Orleans, LA**. Here is the specific information ([Link](https://www.southerneconomic.org/event/7662b305-ad92-474d-8f2c-bce1240b9858/websitePage:efc0c532-2b5f-4374-b1ab-4fae7867ce0b) - The Elderly
+4:00 PM-5:45 PM) of my paper presentation session.
 
 ## Data is Beautiful! ##
 *World Railway Network in 2018*
