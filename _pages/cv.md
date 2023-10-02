@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-*You can download a PDF copy of my CV [here](/yushangw/files/pdf/CV_YushangWei_Research.pdf).*
+*You can download a PDF copy of my CV [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/CV_YushangWei_Research.pdf).*
 
 ## Education ##
 - *Ph.D Economics, University at Buffalo,SUNY*; (June 2024 expected)
