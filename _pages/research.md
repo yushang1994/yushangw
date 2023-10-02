@@ -10,7 +10,7 @@ header:
 ## Job Market Paper ##
 
 - **"Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China"**
-[![PDF Link](/yushangw/images/research/pdf.jpeg)]{:height="36px" width="30px"}(/yushangw/files/pdf/research/JMP_YushangWei.pdf)
+[![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf)
 
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
