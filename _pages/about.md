@@ -16,7 +16,8 @@ I am a PhD Candidate in the [Department of Economics](https://arts-sciences.buff
 
 My research interests lie in the domain of Applied Microeconomics with a focused view on Development, Health, Labor and Transportation Infrastructure. My current research focuses on how transportation systems affect development and health outcomes. I have teaching experience in introduction-level economics courses. 
 
-**I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China]() at the ASSA 2024 Annual Meeting in San Antonio, TX**
+**I will present my job market paper [Can High-speed Rail Improve Middle-aged and Elderly People's Mental Health? Evidence from China](/yushangw/files/pdf/research/JMP_YushangWei.pdf) at the ASSA 2024 Annual Meeting in San Antonio, TX** Here is the specific information [Link](https://www.aeaweb.org/conference/2024/preliminary/2067?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArPDUTyElJrAQp0TUFSWTmpkKUlGWmloMMKSooXDAKmBoo1dYCXDDhxh0Q) of my paper session. 
+
 
 ## Data is Beautiful! ##
 *World Railway Network in 2018*

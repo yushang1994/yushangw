@@ -6,6 +6,7 @@ header:
 ---
 
 ##  ECO 181: Introduction to Macroeconomics (University at Buffalo, SUNY)
+I taught Introduction to Macroeconomics (ECO 181) during the summer semesters of 2023 and 2022. Below, I list some of my teaching materials.
 
 **Course Information**
 - [Syllabus](/yushangw/files/pdf/teaching/Syllabus_ECO_181_Summer_2023.pdf) 
