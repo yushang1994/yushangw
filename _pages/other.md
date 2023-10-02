@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Other"
+title: "Hobby"
 permalink: /other/
 author_profile: true
 
 ---
-## My Hobby ## 
 
-**I love baking. A lot.**
+**I enjoy baking.**
 
 If you ask my neighbors about the best part of living near me, you'll receive a consistent response: the volume of baked goods that comes from my apartment.
 

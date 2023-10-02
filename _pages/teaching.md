@@ -5,7 +5,7 @@ title: "Teaching"
 
  My learning and research experience play a central role in my theaching. I have taught undergraduate courses on Introduction to Macroeconomics. I also served as a teaching assistant for courses in University at Buffalo. Here is the list of my teaching experience. 
 
- You can find my **teaching portfolio** [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/teaching/TeachingPortfolio_YushangWei.pdf) 
+ You can find my **teaching portfolio** [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/teaching/TeachingPortfolio_YushangWei.pdf).
 
 ## University at Buffalo, SUNY - Adjunct Instructor
 - ECO 181: Introduction to Macroeconomics(Summer 2022)
