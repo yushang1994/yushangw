@@ -14,7 +14,7 @@ My journey into baking began during my sophomore year in college. I started maki
 
 Of course, I encountered failures along the way, each success after a setback brought immense joy. Baking has remained a constant source of delight in my life up to this day.  Whenever I feel down, baking a cake and engaging in delightful conversations with friends become therapeutic, helping me heal and find the strength to move forward.
 
-Below are images of my baking creations!
+**Below are images of my baking creations!**
 
 |![](/yushangw/images/baking/Chocolatetart.JPG) | ![](/yushangw/images/baking/macaron3.jpg)|
 |:-:|:-:|
