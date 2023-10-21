@@ -28,11 +28,11 @@ Using a panel of Chinese cities over the period 1999 - 2018, I examine the deter
 
 **Working in Progress**
 
- - **"Do College Graduates Serving as Village Officials Help Local Health level"** with Yuting Bai *Draft coming soon*
+ - "Do College Graduates Serving as Village Officials Help Local Health level" with Yuting Bai *Draft coming soon*
 
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
  The College Graduate Village Officials (CGVOs) program in China is a unique human capital reallocation policy initiated by the government. This program deploys recent college graduates to rural and underdeveloped areas as village-level officials. CGVOs are engaged in various projects, including governance, economic development, education, and healthcare, with the overarching goal of enhancing the quality of life in China's rural regions while providing career opportunities for college graduates. In this paper, We employ a Difference-in-Difference (DD) approach as my baseline estimation strategy, comparing the impact on local health before and after the introduction of CGVOs.
  </details> 
 
- **"Public Transportation and Fertility Choice"**
+ - "Public Transportation and Fertility Choice"
