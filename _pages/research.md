@@ -7,9 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-** Job Market Paper **
+**Working paper**
 
- - "Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China" *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) 
+ - **(Job Market Paper)** "Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China" *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) 
 
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -17,7 +17,7 @@ header:
 </details> 
 
 
-** Working paper **
+
  - "Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth" *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/Topic01_YushangWei.pdf)
 
  <details style="font-size:80%; background-color:#fffbfa;">
@@ -26,9 +26,9 @@ Using a panel of Chinese cities over the period 1999 - 2018, I examine the deter
 </details> 
 
 
-** Working in Progress **
+**Working in Progress**
 
- - **"Do College Graduates Serving as Village Officials Help Local Health level"** with Yuting Bai
+ - **"Do College Graduates Serving as Village Officials Help Local Health level"** with Yuting Bai *Draft coming soon*
 
  <details style="font-size:80%; background-color:#fffbfa;">
  <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
