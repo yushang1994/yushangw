@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## CV ##
 **Education**
   - Ph.D Economics `|` <span style="font-size:13px;"> University at Buffalo,SUNY (June 2024 expected)
   - B.S. Applied Mathematics and Economics (double major) `|` <span style="font-size:13px;"> Purdue University (2018)
