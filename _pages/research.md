@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-##Working paper##
+## Working paper ##
 
   - **(Job Market Paper)** "Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China" *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) 
 
@@ -26,7 +26,7 @@ header:
       </details> 
 
 
-##Working in Progress##
+## Working in Progress ##
 
   - "Do College Graduates Serving as Village Officials Help Local Health level" with Yuting Bai (*Draft coming soon*)
 
