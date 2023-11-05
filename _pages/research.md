@@ -9,18 +9,19 @@ header:
 
 ## Working paper ##
 
-  - **(Job Market Paper) Can High-Speed Rail improve middle-aged and elderly people's mental health? Evidence from China**
+  - **(Job Market Paper)** Can High-Speed Rail Improve Middle-aged and Elderly People’s Mental Health? Evidence from China
     
     *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) 
 
       <details style="font-size:80%; background-color:#fffbfa;">
       <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
-      This paper studies the effects of high-speed rail service on the mental health of middle-aged and elderly people aged 45 years or older. I use historical documents and ArcGIS Pro to restore and produce the railway map in the late Qing Dynasty (1911) as an instrument for modern high-speed rail networks in China. I find that high-speed rail service significantly increases the mental health of middle-aged and elderly people. The paper also examines the mechanisms through which high-speed rail improves the mental health of middle-aged and elderly people. There are three potential channels of influence: *income effect, resource effect, and family effect*. The high-speed rail service increases employment opportunities and improves the availability of medical resources. In particular, the findings suggest that high-speed rail could increase meeting frequency with their children, which reduces loneliness. Additionally, when contrasted with rural residents, the introduction of high-speed rail services has a relatively stronger impact on the mental health of urban residents.
+      The paper studies the effect of the high-speed rail (HSR) service on the mental health of individuals aged 45 and older. I use historical documents and ArcGIS Pro to produce the railway map of the late Qing Dynasty (1911) and use it as an instrument for the modern HSR network in China. I find that the HRS service significantly improves the mental health of middle-aged and elderly people, and the causal impact is larger for urban than for rural residents. I also explore and find supporting evidence for three channels of influence: income, access to medical services and in-person interactions. The HRS increases employment opportunities and, hence, individual income, improves the accessibility of medical resources outside the local area, and increases the frequency of in-person visits by children who do not live in the same city as their parents.
       </details> 
 
 
 
   - "Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth" 
+    
     *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/Topic01_YushangWei.pdf)
 
       <details style="font-size:80%; background-color:#fffbfa;">

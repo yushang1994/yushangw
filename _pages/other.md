@@ -23,3 +23,7 @@ Of course, I encountered failures along the way, each success after a setback br
 |![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.jpg)|
 |:-:|:-:|
 | Canele - Paper discussion with friend |Black Tea Chiffon Cake - My cat wants it! |
+
+|![](/yushangw/images/baking/Bread.JPG) | ![](/yushangw/images/baking/mooncake.jpg)|
+|:-:|:-:|
+| Bread |Chinese Mooncake |
