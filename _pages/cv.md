@@ -13,7 +13,7 @@ redirect_from:
 **Conferences**
 
   - American Economic Association 2024 Annual Meeting `|` <span style="font-size:13px;"> San Antonio TX (Scheduled) - Presenter (January 2024)
-  - Southern Economic Association 93th Annual Conference `|` <span style="font-size:13px;"> New Orleans LA (Scheduled) - Presenter, Discussant (October 2023)
+  - Southern Economic Association 93th Annual Conference `|` <span style="font-size:13px;"> New Orleans LA  - Presenter, Discussant (October 2023)
   - Western Economic Association 98th Annual Conference `|` <span style="font-size:13px;"> San Diego CA - Presenter, Discussant (July 2023)
   - American Society of Health Economists Conference `|` <span style="font-size:13px;"> St.Louis MO - Poster Section (June 2023)
   - 2022 APPMAM Fall Research Conference `|` <span style="font-size:13px;"> Washington DC - Attendee (Nov 2022)
