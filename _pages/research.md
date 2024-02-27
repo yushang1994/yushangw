@@ -12,7 +12,7 @@ header:
   - **(Job Market Paper) Can High-Speed Rail Improve Middle-aged and Elderly People’s Mental Health? Evidence from China**
 
     (Present at ASSA 2024 Annual Meeting([Link](https://www.aeaweb.org/conference/2024/preliminary/2067?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArPDUTyElJrAQp0TUFSWTmpkKUlGWmloMMKSooXDAKmBoo1dYCXDDhxh0Q)), ASHEcon Conference, WEAI 98th Annual Conference, SEA 93th Annual Conference)
-    
+
     *Click the icon to get the paper:* [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="36px" width="36px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) 
 
       <details style="font-size:80%; background-color:#fffbfa;">
@@ -29,7 +29,7 @@ header:
       Using a panel of Chinese cities over the period 1999 - 2018, I examine the determinants of economic growth, focusing on the role of foreign direct investment (FDI) and road infrastructure. Consistent with the predictions of a human capital-augmented Solow model, I find that FDI has a positive effect on the per capita GDP growth rate and this effect is intensified by the road infrastructure of the city. The latter suggests that one way that road infrastructure contributes to growth is to serve as a facilitator for technology transfers stemming from FDI. The findings suggest the FDI-road infrastructure complementary effect is stronger for technology-intensive FDI than for labor-intensive FDI. The results are robust to alternative model specifications and estimation methods.
       </details> 
 
-    - **"Too Shiny to Handle: The Effect of Light Pollution on Mental Health"** with Kaiyi Wen (*Draft upon request*)
+  - **"Too Shiny to Handle: The Effect of Light Pollution on Mental Health"** with Kaiyi Wen (*Draft upon request*)
 
       <details style="font-size:80%; background-color:#fffbfa;">
       <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
