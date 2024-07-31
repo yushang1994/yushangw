@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yushang Wei"
 title_separator          : "-"
-name                     : &name "Yushang Wei"
+name                     : &name "Yushang Wei (魏羽裳)"
 description              : &description "PhD Candidate in Economics"
 url                      : https://yushang1994.github.io/yushangw/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

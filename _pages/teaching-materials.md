@@ -5,5 +5,5 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
-##   PRINCIPLES OF MICROECONOMICS 
-##   PRINCIPLES OF MACROECONOMICS 
+##  Principles of Microeconomics 
+##  Principles of Macroeconomics 
