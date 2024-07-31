@@ -9,7 +9,7 @@ header:
 
 **Working papers** 
 
-  Can High-Speed Rail Improve Middle-aged and Elderly People’s Mental Health? Evidence from China
+ -  Can High-Speed Rail Improve Middle-aged and Elderly People’s Mental Health? Evidence from China
 
     *(Present at ASSA 2024 Annual Meeting([Link](https://www.aeaweb.org/conference/2024/preliminary/2067?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXCArPDUTyElJrAQp0TUFSWTmpkKUlGWmloMMKSooXDAKmBoo1dYCXDDhxh0Q)), ASHEcon Conference, WEAI 98th Annual Conference, SEA 93th Annual Conference)*
 
@@ -40,7 +40,7 @@ header:
 
  **Working in Progress**
 
- Do College Graduates Serving as Village Officials Help Local Health level with Yuting Bai 
+- Do College Graduates Serving as Village Officials Help Local Health level with Yuting Bai 
 
 
  Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States with Kaiyi Wen
