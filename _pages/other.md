@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Hobby"
-permalink: /Life/
+title: "Cake&Cat"
+permalink: /Other/
 author_profile: true
 
 ---
