@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Cake&Cat"
-permalink: /Other/
+permalink: /other/
 author_profile: true
 
 ---
