@@ -21,8 +21,7 @@ header:
       </details> 
 
    - Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth 
-    
-    [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/Topic01_YushangWei.pdf)
+      [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/Topic01_YushangWei.pdf)
 
       <details style="font-size:80%; background-color:#fffbfa;">
       <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -30,12 +29,11 @@ header:
       </details> 
 
    - Too Shiny to Handle: The Effect of Light Pollution on Mental Health with [Kaiyi Wen](https://www.kaiyiwen.com/) (Draft available upon request)
-    
-    *(Scheduled SEA 94th Annual Conference)*
+      *(Scheduled SEA 94th Annual Conference)*
 
       <details style="font-size:80%; background-color:#fffbfa;">
       <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
-      In this paper, we present the first study to establish a causal relationship between light pollution and mental health in the US. We utilize a nationally representative sample at the individual level, coupled with precise measurements of light pollution at the 9-digit zip code level. Our findings demonstrate that 2.7\% of respondents who previously reported minimal mental health concerns are now showing mild symptoms of mental health issues. This translates to an annual welfare loss of up to \$47 billion attributed to lost earnings in the labor market. Additionally, this study explores specific channels, where we observe a significant negative correlation between light pollution and respondents' sleep duration.
+      In this paper, we present the first study to establish a causal relationship between light pollution and mental health in the US. We utilize a nationally representative sample at the individual level, coupled with precise measurements of light pollution at the 9-digit zip code level. Our findings demonstrate that 2.7% of respondents who previously reported minimal mental health concerns are now showing mild symptoms of mental health issues. This translates to an annual welfare loss of up to $47 billion attributed to lost earnings in the labor market. Additionally, this study explores specific channels, where we observe a significant negative correlation between light pollution and respondents' sleep duration.
       </details> 
 
  **Working in Progress**

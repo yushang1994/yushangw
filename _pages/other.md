@@ -20,7 +20,7 @@ If you ask my neighbors about the best part of living near me, you'll receive a 
 
 **Sam is 16 years old!**
 
-![](/yushangw/images/baking/DSCF0604.jpg) 
+![](/yushangw/images/baking/DSCF0604.JPG) 
  ![](/yushangw/images/baking/DSCF0526.JPG)
 
 
