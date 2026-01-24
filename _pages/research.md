@@ -23,7 +23,7 @@ Working papers
     Using a panel of Chinese cities from 1999 to 2018, this study examines how foreign direct investment (FDI) and road infrastructure jointly influence local economic growth. Within a human-capital-augmented Solow framework, the analysis shows that FDI is positively associated with growth in GDP per capita, and that this relationship strengthens when cities possess more extensive road networks. The results suggest that transportation infrastructure facilitates the diffusion of technologies and productivity spillovers introduced by foreign firms, thereby amplifying the growth effects of FDI. The complementary interaction between FDI and road infrastructure is most evident in technology-intensive cities, coastal regions, and top-tier urban areas. Multiple robustness checks, including alternative specifications and estimation approaches, support the consistency of these findings.
     </details> 
 
-* Sensory Pollution and Mental Health: Evidence from Roadway Noise and Nighttime Light [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/Seneroy_Pollution_and_Mental_Health_Jan_2026.pdf) - Submitted
+* Sensory Pollution and Mental Health: Evidence from Roadway Noise and Nighttime Light [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/research/Seneroy_Pollution_and_Mental_Health_Jan_2026.pdf) (Submitted)
     * <span style="font-size:16px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)*; Present at SEA 94th Annual Conference </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -33,4 +33,5 @@ Working papers
 Working in Progress
 ======
 * Do College Graduates Serving as Village Officials Help Local Health level
-* Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States <span style="font-size:13px;">*with [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
+* Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States 
+    * <span style="font-size:16px;">*with [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
