@@ -10,16 +10,13 @@ header:
 **Working papers**
 
 - High-Speed Rail and Mental Health among Middle-aged and Older Adults in China [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="20px" width="20px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) - Submitted
-
-    <span style="font-size:13px;"> *Solo-authored* </span> <br>
-    <span style="font-size:13px;"> Present at ASSA 2024 Annual Meeting, ASHEcon Conference, WEAI 98th Annual Conference, SEA 93th Annual     Conference </span> 
+    <span style="font-size:13px;"> *Solo-authored*;  Present at ASSA 2024 Annual Meeting, ASHEcon Conference, WEAI 98th Annual Conference, SEA 93th Annual Conference </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
     The paper studies the effect of the high-speed rail (HSR) service on the mental health of individuals aged 45 and older. I use historical documents and ArcGIS Pro to produce the railway map of the late Qing Dynasty (1911) and use it as an instrument for the modern HSR network in China. I find that the HSR service significantly improves the mental health of middle-aged and elderly people, and the causal impact is larger for urban than for rural residents. I also explore and find supporting evidence for three channels of influence: income, access to medical services and in-person interactions. The HSR increases employment opportunities and, hence, individual income, improves the accessibility of medical resources outside the local area, and increases the frequency of in-person visits by children who do not live in the same city as their parents.
     </details> 
 
-- Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth  [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/FDI_Growth_August_Revision.pdf) - Under Review
-
+- Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth  [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/research/FDI_Growth_August_Revision.pdf) - Under Review
     <span style="font-size:13px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -27,9 +24,7 @@ header:
     </details> 
 
 - Sensory Pollution and Mental Health: Evidence from Roadway Noise and Nighttime Light [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/Seneroy_Pollution_and_Mental_Health_Jan_2026.pdf) - Submitted
-
-    <span style="font-size:13px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/) </span> <br>
-    <span style="font-size:13px;"> Present at SEA 94th Annual Conference </span>
+    <span style="font-size:13px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/)*; Present at SEA 94th Annual Conference </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
     While federal regulation has delivered major improvements in air and water quality, sensory pollutants - such as traffic noise and artificial nighttime illumination - remain largely unregulated and understudied. These environmental stressors are pervasive in urban infrastructure and increasingly linked to mental health risks, yet little causal evidence exists on their impacts. We provide the first national-scale analysis of the effect of ambient roadway noise and nighttime light pollution on mental health. We link restricted-use survey microdata from approximately 14,000 respondents in the United States to high-resolution sensory exposures, and leverage natural variation in topography, temperature, and atmospheric conditions to isolate the causal effect of roadway noise and nighttime light on self-reported mental health. Both pollutants exert statistically and economically meaningful effects: road noise increases the likelihood of mild psychological distress by 11%, while light pollution increases it by 13%. These effects are are partially mediated through reductions in sleep duration. Welfare losses are up to $25 billion annually.
@@ -37,5 +32,5 @@ header:
 
 **Working in Progress**
 
-- Do College Graduates Serving as Village Officials Help Local Health level *with Yuting Bai*
-- Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States *with [Kaiyi Wen](https://www.kaiyiwen.com/)*
+- Do College Graduates Serving as Village Officials Help Local Health level
+- Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States <span style="font-size:13px;">*with [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
