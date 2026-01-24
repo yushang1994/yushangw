@@ -5,24 +5,26 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
-Principles of Microeconomics  
-======
+Principles of Microeconomics
+============================
+
 ## Consumer and Household Data
 
 - **[Consumer Expenditure Survey (BLS)](https://www.bls.gov/cex/)**  
-  Household consumption patterns for demand and welfare analysis.
+  Household consumption patterns for demand analysis and welfare evaluation.
 
 - **[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)**  
-  Income, education, demographics, and labor market outcomes.
+  Income, education, demographics, and labor market outcomes at the household level.
 
 ## Teaching and Reference Resources
 
 - **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
-  Open-access materials on consumer choice, firms, markets, and welfare.
+  Open-access materials covering consumer choice, firm behavior, markets, and welfare.
 
 
-Principles of Macroeconomics 
-======
+Principles of Macroeconomics
+============================
+
 ## Macroeconomic Data Sources
 
 - **[FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org)**  
@@ -48,8 +50,12 @@ Principles of Macroeconomics
 - **[U.S. Census Bureau](https://www.census.gov)**  
   Demographics, income, population, and economic surveys.
 
+
 Intermediate Microeconomics
-======
+===========================
+
+## Textbooks, Lecture Notes, and Theory References
+
 - **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
   Open-access material covering consumer choice, firm behavior, markets, and welfare.
 
