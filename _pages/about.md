@@ -14,4 +14,4 @@ I am a Lecturer in the [Department of Economics](https://cla.auburn.edu/economic
 
 My research interests lie in the domain of Applied Microeconomics with a focused view on Health, Transportation, and Public Policy. My current research focuses on how transportation systems affect development and health outcomes. 
 
-I share my home with two cats at very different stages of life. Sam, an 18-year-old Nebelung, is a calm and gentle presence, while Rashba, a 1-year-old British Shorthair, brings curiosity and youthful energy into every day. Together, they add warmth, balance, and personality to my home.
+I share my home with two cats at very different stages of life. Sam, an 18-year-old Nebelung, is a calm and gentle presence, while Rashba, a 1-year-old British Shorthair, brings curiosity and youthful energy into every day.
