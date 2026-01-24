@@ -4,11 +4,9 @@ title: "Course Materials"
 header: 
   og_image: "teaching/pdp.png"
 ---
-============================
-Principles of Microeconomics
-============================
 
-## Consumer and Household Data
+## Principles of Microeconomics
+
 
 - **[Consumer Expenditure Survey (BLS)](https://www.bls.gov/cex/)**  
   Household consumption patterns for demand analysis and welfare evaluation.
@@ -16,16 +14,11 @@ Principles of Microeconomics
 - **[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)**  
   Income, education, demographics, and labor market outcomes at the household level.
 
-## Teaching and Reference Resources
-
 - **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
   Open-access materials covering consumer choice, firm behavior, markets, and welfare.
 
-============================
-Principles of Macroeconomics
-============================
 
-## Macroeconomic Data Sources
+## Principles of Macroeconomics
 
 - **[FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org)**  
   Time series for GDP, inflation, unemployment, interest rates, and money supply.
@@ -39,8 +32,6 @@ Principles of Macroeconomics
 - **[OECD Data](https://data.oecd.org)**  
   High-quality macroeconomic indicators for advanced economies.
 
-## National Statistical Offices
-
 - **[U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov)**  
   Official U.S. data on GDP, national income, consumption, and investment.
 
@@ -50,11 +41,8 @@ Principles of Macroeconomics
 - **[U.S. Census Bureau](https://www.census.gov)**  
   Demographics, income, population, and economic surveys.
 
-============================
-Intermediate Microeconomics
-===========================
 
-## Textbooks, Lecture Notes, and Theory References
+## Intermediate Microeconomics
 
 - **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
   Open-access material covering consumer choice, firm behavior, markets, and welfare.
