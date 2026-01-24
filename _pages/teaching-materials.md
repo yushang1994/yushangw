@@ -5,6 +5,9 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
+Below are selected data sources and learning resources that are useful for undergraduate study in economics.
+
+
 ## Principles of Microeconomics
 
 
