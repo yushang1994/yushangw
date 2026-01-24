@@ -9,7 +9,8 @@ header:
 
 **Working papers**
 
-- High-Speed Rail and Mental Health among Middle-aged and Older Adults in China [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="24px" width="24px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) - Submitted
+- High-Speed Rail and Mental Health among Middle-aged and Older Adults in China [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/research/JMP_YushangWei.pdf) [![Poster Link](/yushangw/images/research/poster.png){:height="20px" width="20px"}](/yushangw/files/pdf/research/JMP_Poster_YushangWei.pdf) - Submitted
+
     <span style="font-size:13px;"> *Solo-authored* </span> <br>
     <span style="font-size:13px;"> Present at ASSA 2024 Annual Meeting, ASHEcon Conference, WEAI 98th Annual Conference, SEA 93th Annual     Conference </span> 
     <details style="font-size:80%; background-color:#fffbfa;">
@@ -18,6 +19,7 @@ header:
     </details> 
 
 - Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth  [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/FDI_Growth_August_Revision.pdf) - Under Review
+
     <span style="font-size:13px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
@@ -25,6 +27,7 @@ header:
     </details> 
 
 - Sensory Pollution and Mental Health: Evidence from Roadway Noise and Nighttime Light [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="24px" width="24px"}](/yushangw/files/pdf/research/Seneroy_Pollution_and_Mental_Health_Jan_2026.pdf) - Submitted
+
     <span style="font-size:13px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) and [Neha Khanna](https://bingdev.binghamton.edu/nkhanna/) </span> <br>
     <span style="font-size:13px;"> Present at SEA 94th Annual Conference </span>
     <details style="font-size:80%; background-color:#fffbfa;">
