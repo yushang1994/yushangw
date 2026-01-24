@@ -5,7 +5,23 @@ permalink: /other/
 author_profile: true
 
 ---
+# Meow meow meow meow ~ ₍^. .^₎⟆
 
+<div style="display: flex; gap: 30px; justify-content: center;">
+
+<img src="/yushangw/images/aboutme/DSCF2046.JPG"
+     alt="Picture One"
+     width="200"
+     height="200"
+     style="border-radius: 50%; object-fit: cover;">
+
+<img src="/yushangw/images/aboutme/DSCF2054.JPG"
+     alt="Picture Two"
+     width="200"
+     height="200"
+     style="border-radius: 50%; object-fit: cover;">
+
+</div>
 **I enjoy baking.**
 
 If you ask my neighbors about the best part of living near me, you'll receive a consistent response: the volume of baked goods that comes from my home.
