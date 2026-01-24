@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cake&Cat"
+title: "Personal"
 permalink: /other/
 author_profile: true
 
@@ -17,6 +17,11 @@ If you ask my neighbors about the best part of living near me, you'll receive a 
 |![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.jpg)|
 
 |![](/yushangw/images/baking/DSCF0555.JPG)| ![](/yushangw/images/baking/DSCF0597.JPG) |
+
+| | | |
+|---|---|---|
+| ![Photo 1](/yushangw/images/baking/Chocolatetart.JPG) | ![Photo 2](/yushangw/images/baking/macaron3.jpg) | ![Photo 3](/yushangw/images/baking/canele.JPG) |
+| ![Photo 4](/yushangw/images/baking/blacktea.jpg) | ![Photo 5](/yushangw/images/baking/DSCF0555.JPG) | ![Photo 6](/yushangw/images/baking/DSCF0597.JPG) |
 
 
 

@@ -4,7 +4,7 @@ title: "Course Materials"
 header: 
   og_image: "teaching/pdp.png"
 ---
-
+============================
 Principles of Microeconomics
 ============================
 
@@ -21,7 +21,7 @@ Principles of Microeconomics
 - **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
   Open-access materials covering consumer choice, firm behavior, markets, and welfare.
 
-
+============================
 Principles of Macroeconomics
 ============================
 
@@ -50,7 +50,7 @@ Principles of Macroeconomics
 - **[U.S. Census Bureau](https://www.census.gov)**  
   Demographics, income, population, and economic surveys.
 
-
+============================
 Intermediate Microeconomics
 ===========================
 
