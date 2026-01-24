@@ -33,5 +33,7 @@ Working papers
 Working in Progress
 ======
 * Do College Graduates Serving as Village Officials Help Local Health level
-* Legislation on Light Pollution and Its Impact on Mental Health Among the Elderly: Evidence from the United States 
+* Rough Waters: Flood Zoon Reclassification and Community Stability 
     * <span style="font-size:16px;">*with [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
+* Facing the Aversion: The Causal Impact of Teacher-student Subject Mismatch on Human Capital
+    * <span style="font-size:16px;">*with [Xiaolong Hou](https://www.xiaolonghou.com/), Yichu Li, and [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
