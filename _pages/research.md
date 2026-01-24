@@ -17,7 +17,7 @@ Working papers
     </details> 
 
 * Road Infrastructure in China: Assessing the Impact on Foreign Direct Investment and Economic Growth  [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/research/FDI_Growth_August_Revision.pdf) (Under Review)
-    * <span style="font-size:16px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/) </span> <br>
+    * <span style="font-size:16px;"> *with [Kaiyi Wen](https://www.kaiyiwen.com/)* </span> <br>
     <details style="font-size:80%; background-color:#fffbfa;">
     <summary style="color:#a51417; font-family:courier; font-size:100%;"> Abstract </summary> 
     Using a panel of Chinese cities from 1999 to 2018, this study examines how foreign direct investment (FDI) and road infrastructure jointly influence local economic growth. Within a human-capital-augmented Solow framework, the analysis shows that FDI is positively associated with growth in GDP per capita, and that this relationship strengthens when cities possess more extensive road networks. The results suggest that transportation infrastructure facilitates the diffusion of technologies and productivity spillovers introduced by foreign firms, thereby amplifying the growth effects of FDI. The complementary interaction between FDI and road infrastructure is most evident in technology-intensive cities, coastal regions, and top-tier urban areas. Multiple robustness checks, including alternative specifications and estimation approaches, support the consistency of these findings.
