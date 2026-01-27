@@ -22,7 +22,8 @@ author_profile: true
      style="border-radius: 50%; object-fit: cover;">
 
 </div>
-**I enjoy baking.**
+
+## I enjoy baking. 
 
 If you ask my neighbors about the best part of living near me, you'll receive a consistent response: the volume of baked goods that comes from my home.
 
@@ -37,7 +38,7 @@ If you ask my neighbors about the best part of living near me, you'll receive a 
 
 ## 🎮 Gaming
 
-Recently, I’ve been enjoying playing video games in my free time, especially **Animal Crossing** on the Nintendo Switch. I like its relaxing and creative gameplay. I also enjoy The Legend of **Zelda, Splatoon, and Super Smash Bros**. 
+Recently, I’ve been enjoying playing video games in my free time, especially **Animal Crossing** on the Nintendo Switch. I like its relaxing and creative gameplay. I also enjoy **The Legend of Zelda, Splatoon, and Super Smash Bros**. 
 
 ![](\yushangw\images\aboutme\IMG_2450.JPG)
 ![](\yushangw\images\aboutme\IMG_2639.JPG)
