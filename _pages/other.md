@@ -35,5 +35,11 @@ If you ask my neighbors about the best part of living near me, you'll receive a 
 |![](/yushangw/images/baking/DSCF0555.JPG)| ![](/yushangw/images/baking/DSCF0597.JPG) |
 
 
+## 🎮 Gaming
 
+Recently, I’ve been enjoying playing video games in my free time, especially **Animal Crossing** on the Nintendo Switch. I like its relaxing and creative gameplay. I also enjoy The Legend of **Zelda, Splatoon, and Super Smash Bros**. 
+
+![](\yushangw\images\aboutme\IMG_2450.JPG)
+![](\yushangw\images\aboutme\IMG_2639.JPG)
+![](\yushangw\images\aboutme\IMG_2839.JPG)
 
