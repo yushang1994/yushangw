@@ -47,9 +47,6 @@ Below are selected data sources and learning resources that are useful for under
 
 ## Intermediate Microeconomics
 
-- **[CORE-Econ – Microeconomics](https://www.core-econ.org/the-economy/)**  
-  Open-access material covering consumer choice, firm behavior, markets, and welfare.
-
 - **[MIT OpenCourseWare – Intermediate Microeconomics](https://ocw.mit.edu)**  
   Lecture notes, problem sets, and exams for intermediate microeconomics courses.
 
