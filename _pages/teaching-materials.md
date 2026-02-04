@@ -10,6 +10,12 @@ Below are selected data sources and learning resources that are useful for under
 
 ## Principles of Microeconomics
 
+Notes and Practices Questions: 
+
+- PPF: Practice Question [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/PPF_Q1.pdf)
+
+Useful Data Sources:
+
 - **[Consumer Expenditure Survey (BLS)](https://www.bls.gov/cex/)**  
   Household consumption patterns for demand analysis and welfare evaluation.
 
@@ -18,6 +24,8 @@ Below are selected data sources and learning resources that are useful for under
 
 
 ## Principles of Macroeconomics
+
+Useful Data Sources:
 
 - **[FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org)**  
   Time series for GDP, inflation, unemployment, interest rates, and money supply.
