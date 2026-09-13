@@ -70,11 +70,11 @@ redirect_from:
 <section class="cv-section">
   <h2 class="cv-section__title" id="beyond-work">Beyond Work</h2>
   <div class="about__cats">
-    <a class="about__cat" href="{{ '/other/' | relative_url }}">
+    <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
       <img src="{{ '/images/aboutme/DSCF2046.JPG' | relative_url }}" alt="Sam, a Nebelung cat">
       <span>Sam</span>
     </a>
-    <a class="about__cat" href="{{ '/other/' | relative_url }}">
+    <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
       <img src="{{ '/images/aboutme/DSCF2054.JPG' | relative_url }}" alt="Rashba, a British Shorthair cat">
       <span>Rashba</span>
     </a>
@@ -82,7 +82,7 @@ redirect_from:
       I share my home with two cats at very different stages of life: Sam, an 18-year-old Nebelung,
       is a calm and gentle presence, while Rashba, a 1-year-old British Shorthair, brings curiosity
       and youthful energy into every day. I also bake &mdash; a lot &mdash; and you can see the results
-      on the <a href="{{ '/other/' | relative_url }}">Cake &amp; Cat</a> page.
+      on the <a href="{{ '/beyond-work/' | relative_url }}">Beyond Work</a> page.
     </p>
   </div>
 </section>

@@ -1,0 +1,101 @@
+# Photo albums for the "Beyond Work" page (_pages/beyond-work.md).
+#
+# Each album:
+#   id           short slug used in the page URL hash, e.g. #cats
+#   title        album name shown on the card and tab
+#   description  one or two sentences shown above the photo grid
+#   cover        which photo (by file name) to use on the album card
+#   aspect       "square" (default) or "wide" (16:9) tiles
+#   photos       list of {file, alt, caption}; `file` is the original under /images/,
+#                and a matching thumbnail is expected at /images/thumbs/<name>.jpg
+#
+# To add a photo: put the full-size image in images/baking/ or images/aboutme/,
+# add a 640px thumbnail with the same base name to images/thumbs/, and list it here.
+
+- id: cats
+  title: Cats
+  description: >-
+    I share my home with two cats at very different stages of life. Sam, an 18-year-old Nebelung,
+    is a calm and gentle presence, while Rashba, a 1-year-old British Shorthair, brings curiosity
+    and youthful energy into every day.
+  cover: aboutme/DSCF2054.JPG
+  photos:
+    - file: aboutme/DSCF2054.JPG
+      alt: Rashba, a British Shorthair cat, looking at the camera
+      caption: Rashba
+    - file: aboutme/DSCF2046.JPG
+      alt: Sam, a Nebelung cat, resting his head on a toy
+      caption: Sam
+    - file: baking/DSCF0526.JPG
+      alt: Sam napping in a basket in the afternoon sun
+      caption: Sam, afternoon nap
+    - file: baking/DSCF0604.JPG
+      alt: Sam sitting in a basket by the window
+      caption: Sam at the window
+    - file: baking/macaron2.jpg
+      alt: Sam sniffing a tray of freshly baked macarons
+      caption: Quality control
+
+- id: pastry
+  title: Pastry
+  description: >-
+    If you ask my neighbors about the best part of living near me, you'll receive a consistent
+    response: the volume of baked goods that comes from my home. Baking is a bit like research —
+    read, replicate, then experiment.
+  cover: baking/DSCF0555.JPG
+  photos:
+    - file: baking/DSCF0555.JPG
+      alt: Strawberry cream cake with piped frosting
+      caption: Strawberry cream cake
+    - file: baking/Chocolatetart.JPG
+      alt: Chocolate tart with piped chocolate cream
+      caption: Chocolate cream tart
+    - file: baking/DSCF0597.JPG
+      alt: Lemon meringue tart with torched meringue
+      caption: Lemon meringue tart
+    - file: baking/Chestnuttart.JPG
+      alt: Chestnut tart with piped cream and fruit
+      caption: Chestnut tart
+    - file: baking/canele.JPG
+      alt: Two canelés on a plate beside coffee cups
+      caption: Canelés
+    - file: baking/macaron3.jpg
+      alt: Green macarons decorated as little monsters
+      caption: Monster macarons
+    - file: baking/macaron.JPG
+      alt: A matcha macaron held in hand
+      caption: Matcha macaron
+    - file: baking/macaron1.JPG
+      alt: Macaron shells cooling on a baking tray
+      caption: Macaron shells
+    - file: baking/DSCF0581.JPG
+      alt: A slice of strawberry cake on a plate
+      caption: Strawberry cake, sliced
+    - file: baking/blacktea.jpg
+      alt: A slice of black tea cake, with Sam watching from a basket
+      caption: Black tea cake (and Sam)
+    - file: baking/mooncake.JPG
+      alt: Freshly baked mooncakes cooling on a rack
+      caption: Mooncakes
+    - file: baking/Bread.jpg
+      alt: Bread dough with seeds and dried fruit in a bowl
+      caption: Bread
+
+- id: games
+  title: Games
+  description: >-
+    Recently I've been enjoying video games in my free time, especially Animal Crossing on the
+    Nintendo Switch — I like its relaxing and creative gameplay. I also enjoy The Legend of Zelda,
+    Splatoon, and Super Smash Bros.
+  cover: aboutme/IMG_2450.JPG
+  aspect: wide
+  photos:
+    - file: aboutme/IMG_2450.JPG
+      alt: Animal Crossing island at night with lanterns and a waterfall
+      caption: My island at night
+    - file: aboutme/IMG_2639.JPG
+      alt: Animal Crossing character standing in a field under a purple evening sky
+      caption: Evening walk
+    - file: aboutme/IMG_2839.JPG
+      alt: Animal Crossing farm with greenhouses and a market stall
+      caption: The farm
