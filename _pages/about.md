@@ -71,11 +71,11 @@ redirect_from:
   <h2 class="cv-section__title" id="beyond-work">Beyond Work</h2>
   <div class="about__cats">
     <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
-      <img src="{{ '/images/aboutme/DSCF2046.JPG' | relative_url }}" alt="Sam, a Nebelung cat">
+      <img src="{{ '/images/aboutme/sam.jpg' | relative_url }}" alt="Drawing of Sam, a grey Nebelung cat">
       <span>Sam</span>
     </a>
     <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
-      <img src="{{ '/images/aboutme/DSCF2054.JPG' | relative_url }}" alt="Rashba, a British Shorthair cat">
+      <img src="{{ '/images/aboutme/rashba.jpg' | relative_url }}" alt="Drawing of Rashba, a British Shorthair cat">
       <span>Rashba</span>
     </a>
     <p class="about__prose">

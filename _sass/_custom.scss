@@ -264,9 +264,9 @@
 
 .about__lead {
   margin: 0.25em 0 1em;
-  font-size: $type-size-4;
-  font-weight: 300;
-  line-height: 1.5;
+  font-size: 1.05em;
+  font-weight: 400;
+  line-height: 1.6;
   color: $dark-gray;
 
   a {
@@ -365,13 +365,13 @@
   font-size: $type-size-7;
 
   img {
-    width: 84px;
-    height: 84px;
+    width: 112px;
+    height: 112px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #fff;
-    box-shadow: 0 1px 4px rgba(#000, 0.18);
-    transition: transform 0.2s ease-in-out;
+    border: 2px solid $border-color;
+    background-color: #fff;
+    transition: transform 0.2s ease-in-out, border-color 0.2s ease-in-out;
   }
 
   &:hover {
@@ -380,6 +380,7 @@
 
     img {
       transform: scale(1.05);
+      border-color: mix(#fff, $link-color, 40%);
     }
   }
 
