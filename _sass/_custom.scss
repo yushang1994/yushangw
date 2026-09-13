@@ -558,3 +558,63 @@
     transform: none;
   }
 }
+
+/*
+   Theme toggle (dark / light)
+   ========================================================================== */
+
+.masthead__inner-wrap {
+  position: relative;
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25em;
+  height: 2.25em;
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  line-height: 1;
+  color: $masthead-link-color;
+  background: transparent;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translateY(-50%);
+  transition: $global-transition;
+
+  &:hover {
+    color: $link-color;
+    border-color: $link-color;
+  }
+
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba($link-color, 0.3);
+  }
+
+  .theme-toggle__icon--light { display: none; }
+  .theme-toggle__icon--dark { display: inline-block; }
+}
+
+html[data-theme="dark"] .theme-toggle {
+  .theme-toggle__icon--light { display: inline-block; }
+  .theme-toggle__icon--dark { display: none; }
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle {
+    .theme-toggle__icon--light { display: inline-block; }
+    .theme-toggle__icon--dark { display: none; }
+  }
+}
+
+/* keep the greedy nav clear of the toggle */
+.greedy-nav {
+  padding-right: 3.25em;
+}

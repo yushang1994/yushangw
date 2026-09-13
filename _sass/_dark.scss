@@ -1,0 +1,382 @@
+/* ==========================================================================
+   DARK THEME
+   Applied when <html data-theme="dark"> (chosen with the toggle in the masthead)
+   or when the visitor's system prefers dark and no explicit choice was made.
+   ========================================================================== */
+
+$dark-bg          : #15181c;
+$dark-surface     : #1d2126;
+$dark-surface-alt : #242a30;
+$dark-border      : #2f363d;
+$dark-text        : #d7dbdf;
+$dark-text-muted  : #98a1a9;
+$dark-text-faint  : #737c84;
+$dark-link        : #6fb6ea;
+$dark-link-hover  : #9ccdf2;
+
+@mixin dark-theme {
+  html[data-theme="dark"] {
+    @content;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) {
+      @content;
+    }
+  }
+}
+
+@include dark-theme {
+  color-scheme: dark;
+  background-color: $dark-bg;
+
+  body {
+    color: $dark-text;
+    background-color: $dark-bg;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $dark-text;
+  }
+
+  a {
+    color: $dark-link;
+
+    &:hover {
+      color: $dark-link-hover;
+    }
+  }
+
+  ::selection {
+    color: #fff;
+    background: $dark-link;
+  }
+
+  hr,
+  .page__content h2 {
+    border-color: $dark-border;
+  }
+
+  blockquote {
+    color: $dark-text-muted;
+    border-left-color: $dark-border;
+  }
+
+  p > code, a > code, li > code, figcaption > code, td > code, kbd, pre {
+    color: $dark-text;
+    background-color: $dark-surface-alt;
+    border-color: $dark-border;
+  }
+
+  table {
+    color: $dark-text;
+  }
+
+  thead {
+    background-color: $dark-surface-alt;
+    border-bottom-color: $dark-border;
+  }
+
+  td {
+    border-bottom-color: $dark-border;
+  }
+
+  /* Masthead and navigation */
+  .masthead {
+    background-color: $dark-bg;
+    border-bottom-color: $dark-border;
+  }
+
+  .greedy-nav {
+    background-color: $dark-bg;
+
+    a {
+      color: $dark-text-muted;
+
+      &:hover {
+        color: $dark-text;
+      }
+    }
+
+    .masthead__menu-item--lg a {
+      color: $dark-text;
+    }
+
+    button {
+      color: $dark-bg;
+      background-color: $dark-text-muted;
+    }
+
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+      background: $dark-bg;
+    }
+
+    .hidden-links {
+      background: $dark-surface;
+      border-color: $dark-border;
+
+      li {
+        border-bottom-color: $dark-border;
+      }
+
+      a:hover {
+        background: $dark-surface-alt;
+      }
+
+      &:before {
+        border-color: $dark-border transparent;
+      }
+
+      &:after {
+        border-color: $dark-surface transparent;
+      }
+    }
+  }
+
+  /* Author sidebar */
+  .author__avatar img {
+    border-color: $dark-border;
+  }
+
+  .author__name {
+    color: $dark-text;
+  }
+
+  .author__bio,
+  .author__urls li {
+    color: $dark-text-muted;
+  }
+
+  .author__urls {
+    background: $dark-surface;
+    border-color: $dark-border;
+
+    @include breakpoint($large) {
+      background: transparent;
+      border-color: transparent;
+    }
+
+    &:before {
+      border-color: $dark-border transparent;
+    }
+
+    &:after {
+      border-color: $dark-surface transparent;
+    }
+
+    a {
+      color: $dark-text-muted;
+
+      &:hover {
+        color: $dark-link;
+      }
+    }
+  }
+
+  .author__urls-wrapper .btn--inverse {
+    color: $dark-text-muted !important;
+    background-color: $dark-surface;
+    border-color: $dark-border !important;
+
+    &:hover {
+      color: $dark-text !important;
+      border-color: $dark-text-muted !important;
+    }
+  }
+
+  /* Page and archive */
+  .page__title,
+  .archive__item-title,
+  .archive__item-title a {
+    color: $dark-text;
+  }
+
+  .page__meta,
+  .page__date,
+  .archive__subtitle,
+  .archive__item-excerpt {
+    color: $dark-text-muted;
+  }
+
+  .archive__subtitle {
+    border-bottom-color: $dark-border;
+  }
+
+  /* Footer */
+  .page__footer {
+    color: $dark-text-faint;
+    background-color: $dark-surface;
+    border-top-color: $dark-border;
+
+    a {
+      color: inherit;
+    }
+
+    .fas, .fab, .far, .fal {
+      color: $dark-text-faint;
+    }
+  }
+
+  /* CV-style lists (Research, Teaching, Course Materials, About) */
+  .cv-section__title {
+    color: $dark-text-muted;
+    border-bottom-color: $dark-border;
+  }
+
+  .cv-section__role {
+    color: $dark-text-faint;
+    border-left-color: $dark-border;
+  }
+
+  .cv-section__note,
+  .cv-entry__abstract p {
+    color: $dark-text;
+    background-color: $dark-surface;
+  }
+
+  .cv-section__note {
+    border-left-color: mix($dark-bg, $dark-link, 30%);
+  }
+
+  .cv-intro,
+  .cv-entry__meta,
+  .cv-entry__code {
+    color: $dark-text-muted;
+  }
+
+  .cv-group__title {
+    color: $dark-text;
+  }
+
+  .cv-entry {
+    border-left-color: $dark-border;
+
+    &:hover {
+      border-left-color: mix($dark-bg, $dark-link, 30%);
+    }
+  }
+
+  .cv-entry__title {
+    color: $dark-text;
+
+    a {
+      color: inherit;
+      border-bottom-color: mix($dark-bg, $dark-link, 45%);
+
+      &:hover {
+        color: $dark-link;
+        border-bottom-color: $dark-link;
+      }
+    }
+  }
+
+  .cv-entry__meta a:hover {
+    color: $dark-link;
+  }
+
+  .cv-entry__status,
+  .about__tags li {
+    color: $dark-text;
+    background-color: $dark-surface-alt;
+  }
+
+  .cv-entry__links > a,
+  .cv-entry__abstract summary {
+    color: $dark-link;
+  }
+
+  /* About page */
+  .about__lead,
+  .about__prose {
+    color: $dark-text;
+  }
+
+  .about__lead a,
+  .about__prose a {
+    border-bottom-color: mix($dark-bg, $dark-link, 45%);
+  }
+
+  .about__actions {
+    .btn--primary {
+      background-color: $dark-link;
+      color: $dark-bg !important;
+
+      &:hover {
+        background-color: $dark-link-hover;
+      }
+    }
+
+    .btn--inverse {
+      color: $dark-text-muted !important;
+      background-color: $dark-surface;
+      border-color: $dark-border !important;
+
+      &:hover {
+        color: $dark-link !important;
+        border-color: $dark-link !important;
+        background-color: $dark-surface;
+      }
+    }
+  }
+
+  .about__cat,
+  .archive .about__cat {
+    color: $dark-text-muted;
+
+    img {
+      border-color: $dark-border;
+    }
+  }
+
+  /* Albums */
+  .album-card,
+  .archive .album-card {
+    color: $dark-text;
+    background-color: $dark-surface;
+    border-color: $dark-border;
+    box-shadow: 0 1px 3px rgba(#000, 0.4);
+
+    &:hover,
+    &:focus {
+      box-shadow: 0 8px 20px rgba(#000, 0.5);
+    }
+
+    &.is-active {
+      border-color: $dark-link;
+      box-shadow: 0 0 0 2px rgba($dark-link, 0.3), 0 4px 12px rgba(#000, 0.5);
+
+      .album-card__title {
+        color: $dark-link;
+      }
+    }
+  }
+
+  .album-card__cover,
+  .archive .album-card__cover,
+  .album__photo,
+  .archive .album__photo {
+    background-color: $dark-surface-alt;
+  }
+
+  .album-card__count,
+  .archive .album-card__count {
+    color: $dark-text-muted;
+  }
+
+  .album__description {
+    color: $dark-text;
+  }
+
+  /* Theme toggle button (both themes) */
+  .theme-toggle {
+    color: $dark-text-muted;
+    border-color: $dark-border;
+
+    &:hover {
+      color: $dark-text;
+      border-color: $dark-text-muted;
+    }
+  }
+}

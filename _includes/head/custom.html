@@ -18,4 +18,13 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem('theme');
+      if (t === 'dark' || t === 'light') { document.documentElement.setAttribute('data-theme', t); }
+    } catch (e) {}
+  })();
+</script>
+
 <!-- end custom head snippets -->
