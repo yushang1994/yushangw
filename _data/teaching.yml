@@ -5,22 +5,33 @@
 #   code    Course number, e.g. "ECON 2020"
 #   title   Course name
 #   terms   List of terms taught (shown in order)
+#   textbook  Optional textbook line shown under the terms
 #   links   Optional list of {label, file} for syllabi or other PDFs (file is relative to site root)
+# A section may also have a `note` shown under its heading.
 
 - institution: Auburn University
   role: Lecturer
+  note: >-
+    Beginning Fall 2026: As part of department-wide curriculum standardization, all sections of
+    ECON 2020 and ECON 2030 will use the same designated textbooks and cover the same core topics.
   items:
     - code: ECON 2020
       title: Principles of Microeconomics
-      terms: [Fall 2024, Spring 2025, Spring 2026]
+      terms: [Fall 2024, Spring 2025, Spring 2026, Fall 2026]
+      textbook: "*Microeconomics* — Glenn Hubbard and Anthony Patrick O'Brien, Pearson+"
       links:
-        - label: Syllabus
+        - label: Syllabus (Fall 2026)
+          file: /files/pdf/teaching-materials/ECON2020_Syllabus_Fall2026.pdf
+        - label: Earlier syllabus
           file: /files/pdf/teaching-materials/ECON2020_Syllabus.pdf
     - code: ECON 2030
       title: Principles of Macroeconomics
-      terms: [Fall 2024, Spring 2025, Summer 2025, Fall 2025, Spring 2026]
+      terms: [Fall 2024, Spring 2025, Summer 2025, Fall 2025, Spring 2026, Fall 2026]
+      textbook: "*Macroeconomics* — Glenn Hubbard and Anthony Patrick O'Brien, Pearson+"
       links:
-        - label: Syllabus
+        - label: Syllabus (Fall 2026)
+          file: /files/pdf/teaching-materials/ECON2030_Syllabus_Fall2026.pdf
+        - label: Earlier syllabus
           file: /files/pdf/teaching-materials/ECON2030_Syllabus.pdf
         - label: Asynchronous Syllabus (Summer)
           file: /files/pdf/teaching-materials/ECON2030__Syllabus_Summer.pdf
