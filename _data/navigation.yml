@@ -1,16 +1,13 @@
-# main links links
+# Main navigation links
 main:
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/ 
-  
+    url: /teaching/
+
   - title: "Course Materials"
     url: /teaching-materials/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Cake&Cat"
+  - title: "Cake & Cat"
     url: /other/
