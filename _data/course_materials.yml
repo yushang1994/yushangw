@@ -25,6 +25,12 @@ sections:
             url: https://www.census.gov/programs-surveys/acs
             description: Income, education, demographics, and labor market outcomes at the household level.
 
+      - title: Additional Reading
+        items:
+          - title: Hubbard & O'Brien Economics Blog
+            url: https://hubbardobrieneconomics.com/
+            description: Blog posts and podcasts from the textbook authors on current economic issues, keyed to the chapters of Hubbard & O'Brien's textbooks.
+
   - course: Principles of Macroeconomics
     groups:
       - title: Useful Data Sources
@@ -50,6 +56,12 @@ sections:
           - title: U.S. Census Bureau
             url: https://www.census.gov
             description: Demographics, income, population, and economic surveys.
+
+      - title: Additional Reading
+        items:
+          - title: Hubbard & O'Brien Economics Blog
+            url: https://hubbardobrieneconomics.com/
+            description: Blog posts and podcasts from the textbook authors on current economic issues, keyed to the chapters of Hubbard & O'Brien's textbooks.
 
   - course: Intermediate Microeconomics
     groups:
