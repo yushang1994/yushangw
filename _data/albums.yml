@@ -9,7 +9,7 @@
 #   photos       list of {file, alt, caption}; `file` is the original under /images/,
 #                and a matching thumbnail is expected at /images/thumbs/<name>.jpg
 #
-# To add a photo: put the full-size image in images/baking/ or images/aboutme/,
+# To add a photo: put the full-size image in images/cats/, images/baking/ or images/aboutme/,
 # add a 640px thumbnail with the same base name to images/thumbs/, and list it here.
 
 - id: cats
@@ -26,6 +26,24 @@
     - file: aboutme/DSCF2046.JPG
       alt: Sam, a Nebelung cat, resting his head on a toy
       caption: Sam
+    - file: cats/sam-and-rashba-armchair.jpg
+      alt: Sam and Rashba playing together on a floral armchair
+      caption: Sam and Rashba
+    - file: cats/rashba-armchair.jpg
+      alt: Rashba lounging on a floral armchair, looking at the camera
+      caption: Rashba holding court
+    - file: cats/sam-armchair.jpg
+      alt: Sam sitting on a blanket on the floral armchair
+      caption: Sam on his throne
+    - file: cats/sam-pompom.jpg
+      alt: Sam sitting on the floor with a pink pom-pom
+      caption: Sam and his pom-pom
+    - file: cats/rashba-under-table.jpg
+      alt: Rashba dozing on a blue bench under the table
+      caption: Rashba, siesta
+    - file: cats/rashba-bench.jpg
+      alt: Rashba lying on the bench with one paw hanging over the edge
+      caption: Rashba, off duty
     - file: baking/DSCF0526.JPG
       alt: Sam napping in a basket in the afternoon sun
       caption: Sam, afternoon nap
