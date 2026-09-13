@@ -1,30 +1,32 @@
 ---
+layout: archive
 permalink: /teaching/
 title: "Teaching"
+author_profile: true
 ---
 
-Auburn University, Lecturer
-======
-* ECON 2020 Principles of Microeconomics (Fall 2024, Spring 2025, Spring 2026)
-    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2020_Syllabus.pdf)
-* ECON 2030 Principles of Macroeconomics (Fall 2024, Spring 2025, Fall 2025, Summer 2025, Spring 2026)
-    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2030_Syllabus.pdf)
-    * Asynchronous Learning Syllabus (Summer) [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2030__Syllabus_Summer.pdf)
-* ECON 3020 Intermediate Microeconomics (Fall 2025)
-    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON3020_Syllabus.pdf)
+{% comment %}
+  Content for this page lives in _data/teaching.yml; styles in _sass/_custom.scss (.cv-*).
+{% endcomment %}
 
-University at Buffalo, SUNY - Instructor
-======
-* ECO 181: Introduction to Macroeconomics(Summer 2022)
-* ECO 181: Introduction to Macroeconomics(Summer 2023)
+{% for section in site.data.teaching %}
+<section class="cv-section">
+  <h2 class="cv-section__title" id="{{ section.institution | append: '-' | append: section.role | slugify }}">
+    {{ section.institution }}<span class="cv-section__role">{{ section.role }}</span>
+  </h2>
 
-University at Buffalo, SUNY - Teaching Assistant
-======
-* ECO 182: Introduction to Microeconomics (Spring 2021, Spring 2023)
-* ECO 181: Introduction to Macroeconomics (Fall 2020, Fall 2021, Spring 2022)
-* ECO 411: Health Economics (Fall 2022)
-* ECO 480/580: Econometrics 1 (Spring 2019, Fall 2022)
-* ECO 461: Econ. Forecasting and Fluctuations  (Spring 2021)
-* ECO 581: Econometrics 2 (Spring 2020)
-* ECO 380: Economic Statistics and Data Analysis (Fall 2019)
-* ECO 551: Mathematics for Economists（Fall 2018）
+  {% for course in section.items %}
+  <article class="cv-entry">
+    <h3 class="cv-entry__title cv-entry__title--course">
+      <span class="cv-entry__code">{{ course.code }}</span><span>{{ course.title }}</span>
+    </h3>
+    {% if course.terms %}<p class="cv-entry__meta">{{ course.terms | join: " · " }}</p>{% endif %}
+    {% if course.links %}
+    <div class="cv-entry__links">
+      {% for link in course.links %}<a href="{{ link.file | relative_url }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> {{ link.label }}</a>{% endfor %}
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+</section>
+{% endfor %}

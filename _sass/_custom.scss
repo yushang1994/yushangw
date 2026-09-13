@@ -40,10 +40,10 @@
 }
 
 /*
-   Research page (data in _data/research.yml, markup in _pages/research.md)
+   CV-style lists: Research (_data/research.yml) and Teaching (_data/teaching.yml)
    ========================================================================== */
 
-.research-section {
+.cv-section {
   margin-bottom: 2.5em;
 
   &__title {
@@ -60,9 +60,19 @@
   &:first-of-type &__title {
     margin-top: 0.5em;
   }
+
+  &__role {
+    display: inline-block;
+    margin-left: 0.75em;
+    padding-left: 0.75em;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    color: mix(#fff, $gray, 35%);
+    border-left: 1px solid $border-color;
+  }
 }
 
-.research-item {
+.cv-entry {
   margin: 0 0 1.4em;
   padding-left: 1em;
   border-left: 3px solid $border-color;
@@ -107,6 +117,22 @@
     border-radius: 999px;
     vertical-align: middle;
     white-space: nowrap;
+  }
+
+  &__title--course {
+    display: flex;
+    align-items: baseline;
+  }
+
+  &__code {
+    flex: 0 0 auto;
+    min-width: 6.2em;
+    margin-right: 0.5em;
+    font-family: inherit;
+    font-size: 0.8em;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: mix(#fff, $gray, 10%);
   }
 
   &__meta {

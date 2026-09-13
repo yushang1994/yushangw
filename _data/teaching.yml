@@ -1,0 +1,67 @@
+# Teaching page content. Edit this file to add or update courses;
+# the page layout lives in _pages/teaching.md and the styling in _sass/_custom.scss (.cv-*).
+#
+# Each section has an institution, a role, and a list of courses. Course fields:
+#   code    Course number, e.g. "ECON 2020"
+#   title   Course name
+#   terms   List of terms taught (shown in order)
+#   links   Optional list of {label, file} for syllabi or other PDFs (file is relative to site root)
+
+- institution: Auburn University
+  role: Lecturer
+  items:
+    - code: ECON 2020
+      title: Principles of Microeconomics
+      terms: [Fall 2024, Spring 2025, Spring 2026]
+      links:
+        - label: Syllabus
+          file: /files/pdf/teaching-materials/ECON2020_Syllabus.pdf
+    - code: ECON 2030
+      title: Principles of Macroeconomics
+      terms: [Fall 2024, Spring 2025, Summer 2025, Fall 2025, Spring 2026]
+      links:
+        - label: Syllabus
+          file: /files/pdf/teaching-materials/ECON2030_Syllabus.pdf
+        - label: Asynchronous Syllabus (Summer)
+          file: /files/pdf/teaching-materials/ECON2030__Syllabus_Summer.pdf
+    - code: ECON 3020
+      title: Intermediate Microeconomics
+      terms: [Fall 2025]
+      links:
+        - label: Syllabus
+          file: /files/pdf/teaching-materials/ECON3020_Syllabus.pdf
+
+- institution: University at Buffalo, SUNY
+  role: Instructor
+  items:
+    - code: ECO 181
+      title: Introduction to Macroeconomics
+      terms: [Summer 2022, Summer 2023]
+
+- institution: University at Buffalo, SUNY
+  role: Teaching Assistant
+  items:
+    - code: ECO 182
+      title: Introduction to Microeconomics
+      terms: [Spring 2021, Spring 2023]
+    - code: ECO 181
+      title: Introduction to Macroeconomics
+      terms: [Fall 2020, Fall 2021, Spring 2022]
+    - code: ECO 411
+      title: Health Economics
+      terms: [Fall 2022]
+    - code: ECO 480/580
+      title: Econometrics 1
+      terms: [Spring 2019, Fall 2022]
+    - code: ECO 461
+      title: Economic Forecasting and Fluctuations
+      terms: [Spring 2021]
+    - code: ECO 581
+      title: Econometrics 2
+      terms: [Spring 2020]
+    - code: ECO 380
+      title: Economic Statistics and Data Analysis
+      terms: [Fall 2019]
+    - code: ECO 551
+      title: Mathematics for Economists
+      terms: [Fall 2018]
