@@ -614,7 +614,15 @@ html[data-theme="dark"] .theme-toggle {
   }
 }
 
-/* keep the greedy nav clear of the toggle */
+/* keep the greedy nav's overflow button and dropdown clear of the toggle */
 .greedy-nav {
   padding-right: 3.25em;
+
+  button {
+    right: 3.25em;
+  }
+
+  .hidden-links {
+    right: 3.25em;
+  }
 }
