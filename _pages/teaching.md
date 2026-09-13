@@ -6,12 +6,12 @@ title: "Teaching"
 Auburn University, Lecturer
 ======
 * ECON 2020 Principles of Microeconomics (Fall 2024, Spring 2025, Spring 2026)
-    * Syllabus [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/teaching-materials/ECON2020_Syllabus.pdf)
+    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2020_Syllabus.pdf)
 * ECON 2030 Principles of Macroeconomics (Fall 2024, Spring 2025, Fall 2025, Summer 2025, Spring 2026)
-    * Syllabus [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/teaching-materials/ECON2030_Syllabus.pdf)
-    * Asynchronous Learning Syllabus (Summer) [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/teaching-materials/ECON2030__Syllabus_Summer.pdf)
+    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2030_Syllabus.pdf)
+    * Asynchronous Learning Syllabus (Summer) [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON2030__Syllabus_Summer.pdf)
 * ECON 3020 Intermediate Microeconomics (Fall 2025)
-    * Syllabus [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/teaching-materials/ECON3020_Syllabus.pdf)
+    * Syllabus [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/teaching-materials/ECON3020_Syllabus.pdf)
 
 University at Buffalo, SUNY - Instructor
 ======

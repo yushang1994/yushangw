@@ -1,6 +1,6 @@
 _site/
-images/posts/*.tex
-images/posts/*.pdf
-images/posts/*.sty
-_source/*_cache
+.jekyll-cache/
+.sass-cache/
 .Rproj.user
+Gemfile.lock
+node_modules/

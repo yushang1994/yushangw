@@ -1,11 +1,17 @@
 {
-	"name": "Rob Williams",
+	"name": "Yushang Wei",
+	"short_name": "Y. Wei",
 	"icons": [
 		{
-			"src": "\/images\/android-chrome-192x192.png?v=M44lzPylqQ",
+			"src": "/yushangw/images/android-chrome-192x192.png",
 			"sizes": "192x192",
-			"type": "image\/png",
-			"density": 4
+			"type": "image/png"
+		},
+		{
+			"src": "/yushangw/images/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
 		}
-	]
+	],
+	"display": "browser"
 }

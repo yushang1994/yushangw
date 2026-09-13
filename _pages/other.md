@@ -9,14 +9,14 @@ author_profile: true
 
 <div style="display: flex; gap: 30px; justify-content: center;">
 
-<img src="/yushangw/images/aboutme/DSCF2046.JPG"
-     alt="Picture One"
+<img src="{{ site.baseurl }}/images/aboutme/DSCF2046.JPG"
+     alt="Sam, an 18-year-old Nebelung cat"
      width="200"
      height="200"
      style="border-radius: 50%; object-fit: cover;">
 
-<img src="/yushangw/images/aboutme/DSCF2054.JPG"
-     alt="Picture Two"
+<img src="{{ site.baseurl }}/images/aboutme/DSCF2054.JPG"
+     alt="Rashba, a 1-year-old British Shorthair cat"
      width="200"
      height="200"
      style="border-radius: 50%; object-fit: cover;">
@@ -29,18 +29,18 @@ If you ask my neighbors about the best part of living near me, you'll receive a 
 
 **Below are images of my baking creations!**
 
-|![](/yushangw/images/baking/Chocolatetart.JPG)|![](/yushangw/images/baking/macaron3.jpg)|
+|![Chocolate cream tart]({{ site.baseurl }}/images/baking/Chocolatetart.JPG)|![Monster-decorated macarons]({{ site.baseurl }}/images/baking/macaron3.jpg)|
 
-|![](/yushangw/images/baking/canele.JPG) | ![](/yushangw/images/baking/blacktea.jpg)|
+|![Canelés]({{ site.baseurl }}/images/baking/canele.JPG) | ![Black tea cake slice with a curious cat]({{ site.baseurl }}/images/baking/blacktea.jpg)|
 
-|![](/yushangw/images/baking/DSCF0555.JPG)| ![](/yushangw/images/baking/DSCF0597.JPG) |
+|![Strawberry cream cake]({{ site.baseurl }}/images/baking/DSCF0555.JPG)| ![Lemon meringue tart]({{ site.baseurl }}/images/baking/DSCF0597.JPG) |
 
 
 ## 🎮 Gaming
 
 Recently, I’ve been enjoying playing video games in my free time, especially **Animal Crossing** on the Nintendo Switch. I like its relaxing and creative gameplay. I also enjoy **The Legend of Zelda, Splatoon, and Super Smash Bros**. 
 
-![](\yushangw\images\aboutme\IMG_2450.JPG)
-![](\yushangw\images\aboutme\IMG_2639.JPG)
-![](\yushangw\images\aboutme\IMG_2839.JPG)
+![Animal Crossing island screenshot]({{ site.baseurl }}/images/aboutme/IMG_2450.JPG)
+![Animal Crossing screenshot]({{ site.baseurl }}/images/aboutme/IMG_2639.JPG)
+![Animal Crossing screenshot]({{ site.baseurl }}/images/aboutme/IMG_2839.JPG)
 

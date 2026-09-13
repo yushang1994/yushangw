@@ -1,8 +1,6 @@
 ---
 permalink: /teaching-materials/
 title: "Course Materials"
-header: 
-  og_image: "teaching/pdp.png"
 ---
 
 Below are selected data sources and learning resources that are useful for undergraduate study in economics.
@@ -12,7 +10,7 @@ Below are selected data sources and learning resources that are useful for under
 
 Notes and Practices Questions: 
 
-- PPF: Practice Question [![PDF Link](/yushangw/images/research/pdf.jpeg){:height="20px" width="20px"}](/yushangw/files/pdf/PPF_Q1.pdf)
+- PPF: Practice Question [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/PPF_Q1.pdf)
 
 Useful Data Sources:
 
