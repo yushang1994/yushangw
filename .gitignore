@@ -4,3 +4,7 @@ _site/
 .Rproj.user
 Gemfile.lock
 node_modules/
+
+# Local helper files that must not be published
+cleanup.bat
+Claude outputs/
