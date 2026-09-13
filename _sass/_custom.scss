@@ -585,6 +585,7 @@
   border: 1px solid $border-color;
   border-radius: 50%;
   cursor: pointer;
+  z-index: 20;
   transform: translateY(-50%);
   transition: $global-transition;
 
