@@ -38,3 +38,158 @@
 .container:hover .overlay {
   opacity: 0.25;
 }
+
+/*
+   Research page (data in _data/research.yml, markup in _pages/research.md)
+   ========================================================================== */
+
+.research-section {
+  margin-bottom: 2.5em;
+
+  &__title {
+    margin: 1.75em 0 0.75em;
+    padding-bottom: 0.35em;
+    font-size: $type-size-6;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: mix(#fff, $gray, 15%);
+    border-bottom: 1px solid $border-color;
+  }
+
+  &:first-of-type &__title {
+    margin-top: 0.5em;
+  }
+}
+
+.research-item {
+  margin: 0 0 1.4em;
+  padding-left: 1em;
+  border-left: 3px solid $border-color;
+  transition: border-color 0.2s ease-in-out;
+
+  &:hover {
+    border-left-color: mix(#fff, $link-color, 40%);
+  }
+
+  &__title {
+    margin: 0;
+    font-size: $type-size-5;
+    font-weight: 600;
+    line-height: 1.45;
+    color: $text-color;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px solid mix(#fff, $link-color, 55%);
+      transition: $global-transition;
+
+      &:hover {
+        color: $link-color;
+        text-decoration: none;
+        border-bottom-color: $link-color;
+      }
+    }
+  }
+
+  &__status {
+    display: inline-block;
+    margin-left: 0.4em;
+    padding: 0.1em 0.6em;
+    font-size: 0.65em;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    line-height: 1.6;
+    color: $dark-gray;
+    background-color: $lighter-gray;
+    border-radius: 999px;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+
+  &__meta {
+    margin: 0.25em 0 0;
+    font-size: $type-size-6;
+    line-height: 1.5;
+    color: mix(#fff, $gray, 10%);
+
+    a {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px dotted currentColor;
+
+      &:hover {
+        color: $link-color;
+        text-decoration: none;
+      }
+    }
+  }
+
+  &__venue {
+    font-style: italic;
+  }
+
+  &__note {
+    font-size: $type-size-7;
+  }
+
+  &__links {
+    margin-top: 0.45em;
+    font-size: $type-size-6;
+
+    > a {
+      display: inline-block;
+      margin-right: 1.2em;
+      color: $link-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__abstract {
+    margin-top: 0.3em;
+    font-size: $type-size-6;
+
+    summary {
+      display: inline-block;
+      cursor: pointer;
+      color: $link-color;
+      list-style: none;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::after {
+        content: "\25BE";
+        display: inline-block;
+        margin-left: 0.3em;
+        font-size: 0.85em;
+        transition: transform 0.2s ease-in-out;
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    &[open] summary::after {
+      transform: rotate(180deg);
+    }
+
+    p {
+      margin: 0.5em 0 0;
+      padding: 0.75em 1em;
+      font-size: 1em;
+      line-height: 1.6;
+      color: $dark-gray;
+      background-color: mix(#fff, $lighter-gray, 40%);
+      border-radius: $border-radius;
+    }
+  }
+}
