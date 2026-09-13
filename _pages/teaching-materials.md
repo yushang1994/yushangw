@@ -1,56 +1,36 @@
 ---
+layout: archive
 permalink: /teaching-materials/
 title: "Course Materials"
+author_profile: true
 ---
 
-Below are selected data sources and learning resources that are useful for undergraduate study in economics.
+{% comment %}
+  Content for this page lives in _data/course_materials.yml; styles in _sass/_custom.scss (.cv-*).
+{% endcomment %}
 
+{% assign materials = site.data.course_materials %}
+{% if materials.intro %}<p class="cv-intro">{{ materials.intro }}</p>{% endif %}
 
-## Principles of Microeconomics
+{% for section in materials.sections %}
+<section class="cv-section">
+  <h2 class="cv-section__title" id="{{ section.course | slugify }}">{{ section.course }}</h2>
 
-Notes and Practices Questions: 
-
-- PPF: Practice Question [![PDF Link]({{ site.baseurl }}/images/research/pdf.jpeg){:height="20px" width="20px"}]({{ site.baseurl }}/files/pdf/PPF_Q1.pdf)
-
-Useful Data Sources:
-
-- **[Consumer Expenditure Survey (BLS)](https://www.bls.gov/cex/)**  
-  Household consumption patterns for demand analysis and welfare evaluation.
-
-- **[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)**  
-  Income, education, demographics, and labor market outcomes at the household level.
-
-
-## Principles of Macroeconomics
-
-Useful Data Sources:
-
-- **[FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org)**  
-  Time series for GDP, inflation, unemployment, interest rates, and money supply.
-
-- **[World Bank – World Development Indicators (WDI)](https://databank.worldbank.org/source/world-development-indicators)**  
-  Cross-country macroeconomic data on growth, poverty, inflation, and government spending.
-
-- **[IMF Data](https://www.imf.org/en/Data)**  
-  Balance of payments, exchange rates, fiscal data, and global economic outlook databases.
-
-- **[OECD Data](https://data.oecd.org)**  
-  High-quality macroeconomic indicators for advanced economies.
-
-- **[U.S. Bureau of Economic Analysis (BEA)](https://www.bea.gov)**  
-  Official U.S. data on GDP, national income, consumption, and investment.
-
-- **[U.S. Bureau of Labor Statistics (BLS)](https://www.bls.gov)**  
-  Employment, unemployment, inflation (CPI, PPI), and wage statistics.
-
-- **[U.S. Census Bureau](https://www.census.gov)**  
-  Demographics, income, population, and economic surveys.
-
-
-## Intermediate Microeconomics
-
-- **[MIT OpenCourseWare – Intermediate Microeconomics](https://ocw.mit.edu)**  
-  Lecture notes, problem sets, and exams for intermediate microeconomics courses.
-
-- **[Varian – Intermediate Microeconomics (Supplementary Materials)](https://www.ssc.wisc.edu/~bhansen/)**  
-  Problem-solving and intuition-building materials aligned with Varian’s textbook.
+  {% for group in section.groups %}
+  <h3 class="cv-group__title">{{ group.title }}</h3>
+  {% for item in group.items %}
+  <article class="cv-entry cv-entry--compact">
+    <h4 class="cv-entry__title">
+      {% if item.url %}<a href="{{ item.url }}">{{ item.title }}</a>{% elsif item.file %}<a href="{{ item.file | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}
+    </h4>
+    {% if item.description %}<p class="cv-entry__meta">{{ item.description }}</p>{% endif %}
+    {% if item.file %}
+    <div class="cv-entry__links">
+      <a href="{{ item.file | relative_url }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> PDF</a>
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+  {% endfor %}
+</section>
+{% endfor %}

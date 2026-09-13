@@ -1,0 +1,63 @@
+# Course Materials page content. Edit this file to add or update resources;
+# the page layout lives in _pages/teaching-materials.md and the styling in _sass/_custom.scss (.cv-*).
+#
+# Each section is a course with one or more groups of resources. Resource fields:
+#   title        Name of the resource (required)
+#   url          External link, or
+#   file         Path (relative to site root) to a PDF on this site
+#   description  One-line note shown under the title
+
+intro: Selected notes, practice questions, and data sources that are useful for undergraduate study in economics.
+
+sections:
+  - course: Principles of Microeconomics
+    groups:
+      - title: Notes and Practice Questions
+        items:
+          - title: "Production Possibilities Frontier: Practice Question"
+            file: /files/pdf/PPF_Q1.pdf
+      - title: Useful Data Sources
+        items:
+          - title: Consumer Expenditure Survey (BLS)
+            url: https://www.bls.gov/cex/
+            description: Household consumption patterns for demand analysis and welfare evaluation.
+          - title: American Community Survey (ACS)
+            url: https://www.census.gov/programs-surveys/acs
+            description: Income, education, demographics, and labor market outcomes at the household level.
+
+  - course: Principles of Macroeconomics
+    groups:
+      - title: Useful Data Sources
+        items:
+          - title: FRED (Federal Reserve Economic Data)
+            url: https://fred.stlouisfed.org
+            description: Time series for GDP, inflation, unemployment, interest rates, and money supply.
+          - title: World Bank – World Development Indicators (WDI)
+            url: https://databank.worldbank.org/source/world-development-indicators
+            description: Cross-country macroeconomic data on growth, poverty, inflation, and government spending.
+          - title: IMF Data
+            url: https://www.imf.org/en/Data
+            description: Balance of payments, exchange rates, fiscal data, and global economic outlook databases.
+          - title: OECD Data
+            url: https://data.oecd.org
+            description: High-quality macroeconomic indicators for advanced economies.
+          - title: U.S. Bureau of Economic Analysis (BEA)
+            url: https://www.bea.gov
+            description: Official U.S. data on GDP, national income, consumption, and investment.
+          - title: U.S. Bureau of Labor Statistics (BLS)
+            url: https://www.bls.gov
+            description: Employment, unemployment, inflation (CPI, PPI), and wage statistics.
+          - title: U.S. Census Bureau
+            url: https://www.census.gov
+            description: Demographics, income, population, and economic surveys.
+
+  - course: Intermediate Microeconomics
+    groups:
+      - title: Learning Resources
+        items:
+          - title: MIT OpenCourseWare – Intermediate Microeconomics
+            url: https://ocw.mit.edu
+            description: Lecture notes, problem sets, and exams for intermediate microeconomics courses.
+          - title: Varian – Intermediate Microeconomics (Supplementary Materials)
+            url: https://www.ssc.wisc.edu/~bhansen/
+            description: Problem-solving and intuition-building materials aligned with Varian’s textbook.

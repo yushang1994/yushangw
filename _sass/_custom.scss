@@ -72,6 +72,24 @@
   }
 }
 
+.cv-intro {
+  margin: 0.5em 0 1.5em;
+  font-size: $type-size-6;
+  line-height: 1.6;
+  color: mix(#fff, $gray, 10%);
+}
+
+.cv-group__title {
+  margin: 1.25em 0 0.6em;
+  font-size: $type-size-6;
+  font-weight: 600;
+  color: $dark-gray;
+
+  .cv-section__title + & {
+    margin-top: 0.5em;
+  }
+}
+
 .cv-entry {
   margin: 0 0 1.4em;
   padding-left: 1em;
@@ -80,6 +98,26 @@
 
   &:hover {
     border-left-color: mix(#fff, $link-color, 40%);
+  }
+
+  &--compact {
+    margin-bottom: 0.9em;
+  }
+
+  &--compact &__title {
+    font-size: $type-size-6;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  &--compact &__meta {
+    margin-top: 0.1em;
+    font-size: $type-size-7;
+  }
+
+  &--compact &__links {
+    margin-top: 0.25em;
+    font-size: $type-size-7;
   }
 
   &__title {
