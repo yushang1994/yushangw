@@ -75,8 +75,8 @@ redirect_from:
     window.addEventListener('hashchange', function () { show(location.hash.slice(1), true); });
     show(location.hash.slice(1), false);
 
-    // One lightbox gallery per album (the theme's default puts every image on the page in one gallery).
-    // The theme's scripts load after this page content, so wait for the window load event.
+    /* One lightbox gallery per album (the theme's default puts every image on the page in one gallery).
+       The theme's scripts load after this page content, so wait for the window load event. */
     window.addEventListener('load', function () {
       if (!(window.jQuery && jQuery.fn.magnificPopup)) { return; }
       jQuery('.album').each(function () {
