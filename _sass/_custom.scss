@@ -363,6 +363,10 @@
   .about__prose {
     flex: 1 1 18em;
     margin: 0;
+
+    @media (max-width: 600px) {
+      flex-basis: 100%;
+    }
   }
 }
 
@@ -397,6 +401,19 @@
 
   span {
     margin-top: 0.35em;
+    text-align: center;
+  }
+
+  small {
+    display: block;
+    font-size: 0.85em;
+    font-style: italic;
+    color: mix(#fff, $gray, 25%);
+  }
+
+  &--memorial img {
+    filter: grayscale(0.25);
+    opacity: 0.92;
   }
 }
 

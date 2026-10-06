@@ -71,18 +71,23 @@ redirect_from:
   <h2 class="cv-section__title" id="beyond-work">Beyond Work</h2>
   <div class="about__cats">
     <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
-      <img src="{{ '/images/aboutme/sam.jpg' | relative_url }}" alt="Drawing of Sam, a grey Nebelung cat">
-      <span>Sam</span>
-    </a>
-    <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
       <img src="{{ '/images/aboutme/rashba.jpg' | relative_url }}" alt="Drawing of Rashba, a British Shorthair cat">
       <span>Rashba</span>
     </a>
+    <a class="about__cat" href="{{ '/beyond-work/' | relative_url }}">
+      <img src="{{ '/images/aboutme/aubie.jpg' | relative_url }}" alt="Drawing of Aubie, a white kitten with blue eyes">
+      <span>Aubie</span>
+    </a>
+    <a class="about__cat about__cat--memorial" href="{{ '/beyond-work/' | relative_url }}">
+      <img src="{{ '/images/aboutme/sam.jpg' | relative_url }}" alt="Drawing of Sam, a grey Nebelung cat">
+      <span>Sam <small>in loving memory</small></span>
+    </a>
     <p class="about__prose">
-      I share my home with two cats at very different stages of life: Sam, an 18-year-old Nebelung,
-      is a calm and gentle presence, while Rashba, a 1-year-old British Shorthair, brings curiosity
-      and youthful energy into every day. I also bake &mdash; a lot &mdash; and you can see the results
-      on the <a href="{{ '/beyond-work/' | relative_url }}">Beyond Work</a> page.
+      I share my home with two cats: Rashba, a 1-year-old British Shorthair who brings curiosity and
+      youthful energy into every day, and Aubie, a 6-month-old kitten who is still discovering the world.
+      Sam, my 18-year-old Nebelung and a calm, gentle presence for many years, passed away and is
+      dearly missed. I also bake &mdash; a lot &mdash; and you can see the results on the
+      <a href="{{ '/beyond-work/' | relative_url }}">Beyond Work</a> page.
     </p>
   </div>
 </section>
